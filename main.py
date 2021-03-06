@@ -26,7 +26,7 @@ root.title("Калькулятор")
 root.geometry("300x300")
 root.maxsize(300, 300)
 
-l = Label(root, text="Введіть 1 число")
+l = Label(root, text="Введіть 1 числo")
 l2 = Label(root, text="Введіть 2 число")
 l3 = Label(root, text="Результат:")
 l.pack()
