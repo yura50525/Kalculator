@@ -176,7 +176,7 @@ but7.place(x=20,y=290,width=40,height=40)
 but8 = Button(text = "AC", command=dela,border=0,bg = "white",fg="#F89414")
 but8.place(x=20,y=70,width=40,height=40)
 
-but9 = Button(text = "C", command=dele,border=0,bg = "white",fg="#F89414")
+but9 = Button(text = "С", command=dele,border=0,bg = "white",fg="#F89414")
 but9.place(x=80,y=70,width=40,height=40)
 
 
